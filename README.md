@@ -1,13 +1,17 @@
-# co6b54bf5b5ad191296d683f7
+# Scoreboard
 
-Quick start:
+#100DaysOfCoding day #4
 
-```
-$ npm install
-$ npm start
-````
+Basketball scoreboard! With this App you can control the score in the basketball game.
+> You can add score with three different options, plus 1, plus 2 or plus 3.
+> Reset the score
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
+NB. There could be lot of improvements in this app. Let's save it for future! 
+i.e Timer or stopwatch for every quarter, Foul, and many more.
+
+Shout out to Scrimba for providing the knowledge.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
